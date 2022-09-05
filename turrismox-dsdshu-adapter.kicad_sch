@@ -550,13 +550,13 @@
     (property "Value" "Conn_01x06" (id 1) (at 177.8 64.7699 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "footprints:XFCN MF254VS-11-06P-A" (id 2) (at 175.26 62.23 0)
+    (property "Footprint" "footprints:Boom_Precision_Elec_C40877" (id 2) (at 175.26 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 175.26 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C492238" (id 4) (at 175.26 62.23 0)
+    (property "LCSC" "C40877" (id 4) (at 175.26 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid a0ed4c11-bf3d-4026-8b8c-3bf19eeef414))
@@ -573,7 +573,7 @@
 
   (symbol_instances
     (path "/b571620c-4d41-45f5-a2f5-6e896d1e6a4a"
-      (reference "J1") (unit 1) (value "Conn_01x06") (footprint "footprints:XFCN MF254VS-11-06P-A")
+      (reference "J1") (unit 1) (value "Conn_01x06") (footprint "footprints:Boom_Precision_Elec_C40877")
     )
     (path "/2690810c-9e74-4209-b5b4-4a1abf5844a3"
       (reference "J2") (unit 1) (value "Conn_02x17_Odd_Even") (footprint "footprints:JILN_321034SG0ABK00A01")
